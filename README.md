@@ -2,7 +2,6 @@
 
 ✨ Приложения Node.js (REST / React / Electron / Bots) 
 ✨ Кроссплатформенные решения (iOS 🍎 / Android 🤖) 
-✨ Unity 
 
 Telegram: fax1ty / Discord: fax1ty#5512
 
